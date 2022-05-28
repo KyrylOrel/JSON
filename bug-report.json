@@ -1,0 +1,11 @@
+{
+  "bug id": "1",
+  "Title": "Send Email button return options not related to sending Email",
+  "Severity": "Minor",
+  "Priority": "Low",
+  "Environment": "iPhone 11",
+  "Precondition": "Installed app on device",
+  "STR": "steps to reproduce",
+  "AR":  "App return different links not related to sending email",
+  "ER":  "App return  links related to sending email"
+}  
